@@ -1,3 +1,5 @@
+![Confusion matrix](random-forest)
+
 # TikTok Claim vs Opinion: Engagement Analysis and Classifier
 
 ## Question
